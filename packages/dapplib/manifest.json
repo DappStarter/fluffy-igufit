@@ -1,0 +1,10 @@
+{
+    "name": "voting-dapp",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "multiple"
+    }
+}
